@@ -1,0 +1,22 @@
+libro.txt
+----------------------- libro.txt -----------------------
+EL LIBRO MAS FAMOSO DEL MUNDO
+
+AUTORES:
+
+Juan
+Leidy
+
+Camilo
+Marcela
+
+
+
+CAPITULO UNO
+
+
+CAPITULO DOS
+
+
+CAPITULO TRES
+---------------------------------------------------------
