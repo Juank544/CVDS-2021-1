@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.eci.cvds.tdd.AppTest" time="0.042" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edu.eci.cvds.tdd.AppTest" time="0.003" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -7,7 +7,7 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\test-classes;C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\classes;C:\Users\LEIDY DUCUARA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LEIDY DUCUARA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\test-classes;C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\classes;C:\Users\LEIDY DUCUARA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LEIDY DUCUARA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LEIDY DUCUARA\.m2\repository\edu\eci\cvds\aerodescuentos\1.0.0\aerodescuentos-1.0.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -18,9 +18,8 @@
     <property name="user.country" value="CO"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\LEIDYD~1\AppData\Local\Temp\surefire4266387016039436044\surefirebooter3220723197664495774.jar C:\Users\LEIDY DUCUARA\AppData\Local\Temp\surefire4266387016039436044 2021-02-04T08-40-16_069-jvmRun1 surefire6487157287310848005tmp surefire_05184215556354882061tmp"/>
-    <property name="test" value="AppTest"/>
-    <property name="surefire.test.class.path" value="C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\test-classes;C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\classes;C:\Users\LEIDY DUCUARA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LEIDY DUCUARA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.java.command" value="C:\Users\LEIDYD~1\AppData\Local\Temp\surefire2648206775323865682\surefirebooter7078312580225523993.jar C:\Users\LEIDY DUCUARA\AppData\Local\Temp\surefire2648206775323865682 2021-02-15T12-47-35_241-jvmRun1 surefire247756983397492342tmp surefire_07343321738132256605tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\test-classes;C:\Users\LEIDY DUCUARA\ClasesEquivalencia\target\classes;C:\Users\LEIDY DUCUARA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\LEIDY DUCUARA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\LEIDY DUCUARA\.m2\repository\edu\eci\cvds\aerodescuentos\1.0.0\aerodescuentos-1.0.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\LEIDY DUCUARA"/>
     <property name="user.language" value="es"/>
@@ -32,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\LEIDYD~1\AppData\Local\Temp\surefire4266387016039436044\surefirebooter3220723197664495774.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\LEIDYD~1\AppData\Local\Temp\surefire2648206775323865682\surefirebooter7078312580225523993.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_281\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_281\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -53,7 +52,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value=""/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin;C:\app\leidy\product\18.0.0\dbhomeXE\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.6.3\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.6.3\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Haskell Platform\8.6.3\mingw\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\apache-maven-3.6.3\\bin;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Python\Python37-32\;C:\Users\LEIDY DUCUARA\AppData\Roaming\cabal\bin;C:\Users\LEIDY DUCUARA\AppData\Roaming\local\bin;C:\Users\LEIDY DUCUARA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2019.2\bin;;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\LEIDY DUCUARA\AppData\Local\GitHubDesktop\bin;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_281\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin;C:\app\leidy\product\18.0.0\dbhomeXE\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Haskell\bin;C:\Program Files\Haskell Platform\8.6.3\lib\extralibs\bin;C:\Program Files\Haskell Platform\8.6.3\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Haskell Platform\8.6.3\mingw\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Wolfram Research\WolframScript\;C:\Program Files\PuTTY\;C:\Program Files\Git\cmd;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Java\jdk1.8.0_281\bin;C:\Program Files\apache-maven-3.6.3\\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\dotnet\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Python\Python37-32\;C:\Users\LEIDY DUCUARA\AppData\Roaming\cabal\bin;C:\Users\LEIDY DUCUARA\AppData\Roaming\local\bin;C:\Users\LEIDY DUCUARA\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm 2019.2\bin;;C:\Users\LEIDY DUCUARA\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\LEIDY DUCUARA\AppData\Local\GitHubDesktop\bin;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.281-b09"/>
@@ -61,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="edu.eci.cvds.tdd.AppTest" time="0.002"/>
+  <testcase name="shouldAnswerWithTrue" classname="edu.eci.cvds.tdd.AppTest" time="0"/>
 </testsuite>
